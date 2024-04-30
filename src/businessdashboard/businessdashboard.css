@@ -1,0 +1,49 @@
+/* Styling for the header */
+.header {
+    background-color: #333;
+    color: white;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .header a {
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+  }
+  
+  .header a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Styling for the header left and right sections */
+  .header-left {
+    display: flex;
+  }
+  
+  .header-right {
+    display: flex;
+  }
+  
+  .header-right button {
+    background-color: transparent;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-left: 20px;
+  }
+  
+  .header-right button:hover {
+    text-decoration: underline;
+  }
+  
+
+  .lists{
+    list-style-type: none;
+  }
+
+  .notification-item {
+    margin-bottom: 20px; /* Adjust the value as needed */
+  }
+  

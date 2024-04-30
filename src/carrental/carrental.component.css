@@ -1,0 +1,30 @@
+.dubai-img{
+    width: 40px;
+    height: 40px;
+}
+
+
+/* first header CSS */
+#navbar-body1{
+    background-color:rgb(194, 138, 150);
+    height:8dvh
+    }
+    
+    .firstpart{
+        margin-right:3%;
+    }
+    
+    
+/* second header CSS */
+.d-flex{
+    margin-left:15%;
+   width:500px;
+   border-radius: 20%;
+}
+
+.navbar-body2{
+    background-color: #2c3e50 ;
+}
+.secondpart{
+    margin-left: 5%;
+}
